@@ -82,6 +82,9 @@ function genCells(xCurCard) {
 
 		++curW;
 		if(curW > tmpCurCard.numCols) {
+			curW = 1;
+			++curH;
+			/*
 			if(_g1 < 23) {
 				curW = 1;
 				++curH;
@@ -89,7 +92,7 @@ function genCells(xCurCard) {
 				curW = 0;
 				++curH;
 			}
-
+			*/
 			tmpCurCard.deckStr += ' |\n._____._____._____._____._____.\n';
     }
     
@@ -104,5 +107,6 @@ function genCells(xCurCard) {
 }
 
 var curCard = new BingoCard();
+//curCard = genCells(curCard);
 
 console.log(curCard.deckStr);
