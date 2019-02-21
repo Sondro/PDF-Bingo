@@ -26,7 +26,7 @@
   "devDependencies": {
     "aliasify": "^1.7.2",
     "angular": "^1.4.1",
-    "brfs": "1.0.2",
+    "brfs": "2.0.2",
     "browserify-derequire": "^0.9.4",
     "connect": "^3.3.5",
     "minifyify": "^7.0.1",
