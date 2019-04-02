@@ -31,7 +31,7 @@
     "connect": "^3.3.5",
     "minifyify": "^7.0.1",
     "open": "6.0.0",
-    "pdfmake": "0.1.18",
+    "pdfmake": "0.1.54",
     "serve-static": "^1.9.3",
     "webpack-cli": "^2.0.14"
   },
