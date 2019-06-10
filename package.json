@@ -24,7 +24,7 @@
     "browser"
   ],
   "devDependencies": {
-    "aliasify": "1.9.0",
+    "aliasify": "2.1.0",
     "angular": "1.6.9",
     "brfs": "2.0.2",
     "browserify-derequire": "0.9.4",
