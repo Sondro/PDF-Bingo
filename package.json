@@ -27,7 +27,7 @@
     "aliasify": "2.1.0",
     "angular": "1.6.9",
     "brfs": "2.0.2",
-    "browserify-derequire": "0.9.4",
+    "browserify-derequire": "1.0.0",
     "connect": "3.6.6",
     "minifyify": "7.3.5",
     "open": "6.3.0",
