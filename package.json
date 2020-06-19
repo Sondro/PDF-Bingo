@@ -33,7 +33,7 @@
     "open": "7.0.4",
     "pdfmake": "0.1.65",
     "serve-static": "1.14.1",
-    "webpack-cli": "3.3.11"
+    "webpack-cli": "3.3.12"
   },
   "browserify": {
     "transform": [
